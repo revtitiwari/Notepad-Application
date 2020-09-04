@@ -6,7 +6,3 @@ Database created with SQLite3
 Notepad is built with the Tkinter 'Text Widget' and Menu() options.
 Includes the database file (there is no need to open that!)
 
-# Video Tutorials
-Part I : https://www.youtube.com/watch?v=m9xuKzuzbz8&t
-Part II : https://www.youtube.com/watch?v=bA9bxDP6vug&t
-
